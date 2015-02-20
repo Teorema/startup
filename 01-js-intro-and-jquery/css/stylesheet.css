@@ -1,0 +1,30 @@
+*{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+  	font-size: 14px;
+}
+
+section{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+span{
+    background-color: yellow;
+}
+
+article{
+    float: right;
+    width: 100%;
+}
+
+article *{
+    margin-right: 5px;
+    text-align: center;
+    float:right;
+}
+
+article div{
+    display:inline-block;
+    width:100%;
+}
